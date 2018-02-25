@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="company_name">Częstochowa Galeria Jurajska</string>
+    <string name="company_address">Al. Wojska Polskiego 207\n42-200 Częstochowa</string>
+    <string name="company_phone">+48 34 399 10 93</string>
+    <string name="company_url">www.calypso.com.pl</string>
+    <string name="company_open_hours">pn.-pt. 6.00-23.00\nsob. 8.00-22.00\nniedz. 8.00-20.00</string>
+</resources>

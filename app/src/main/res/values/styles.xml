@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NoActionBar" parent="Theme.AppCompat">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="CompanyName">
+        <item name="android:textColor">@color/colorCompanyName</item>
+        <item name="android:textSize">@dimen/text_company_name</item>
+    </style>
+
+    <style name="CompanyInfo">
+        <item name="android:textColor">@color/colorCompanyInfo</item>
+        <item name="android:textSize">@dimen/text_company_info</item>
+    </style>
+
+    <style name="CompanyInfoHours">
+        <item name="android:textColor">@color/colorCompanyInfo</item>
+        <item name="android:textSize">@dimen/text_company_info_hours</item>
+    </style>
+</resources>
